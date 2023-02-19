@@ -1,2 +1,2 @@
 # Roblox-Utiities
-Roblox Utilities Scrips
+Roblox Utilities Scripts
